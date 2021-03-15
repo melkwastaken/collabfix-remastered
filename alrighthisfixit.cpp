@@ -56,3 +56,7 @@ cout << "Hello World!";
 int myNum = 15;
 cout << myNum;
 -----------
+int x; 
+cout << "25: "; // Type a number and press enter
+cin >> x; // Get user input from the keyboard
+cout << "Your number is: " << x; // Display the input value
