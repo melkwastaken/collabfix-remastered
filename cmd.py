@@ -1,3 +1,6 @@
-print("collabfix remastered cmd!!! copyright 2020-2021")
+print("collabfix remastered cmd 2.0 copyright 2020-2021")
 x = input()
 print("invaild command, check for a batch file ", x)
+x = input()
+print("access denied, run as admin to run ASSHOLESAREBONZIWORLDFUCKERS23957772.exe, ", x)
+x = input()
